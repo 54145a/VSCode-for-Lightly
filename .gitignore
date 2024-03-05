@@ -1,0 +1,11 @@
+code
+vscode_cli.tar.gz.lightly
+.c_bin
+.classes
+logs
+*.log
+node_modules
+dist
+dist-ssr
+*.local
+.lightly
