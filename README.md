@@ -1,5 +1,5 @@
 # VSCode-for-Lightly
-用VSCode释放Lightly的潜能
+用VSCode释放Lightly的潜能。
 
 ## 使用方法
 1. 使用Lightly导入项目功能从Github导入此项目。
