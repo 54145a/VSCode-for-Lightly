@@ -1,1 +1,1 @@
-./code tunnel
+./code serve-web --without-connection-token
